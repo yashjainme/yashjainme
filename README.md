@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
-<h3 align="center">A Passionate Programmer from India</h3>
+
 
 <img align = 'right' src="Coding GIF.gif" alt="" width="400">
 

@@ -4,20 +4,17 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yashjain2004&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a passionate developer focused on crafting innovative web solutions and developing ML models for predictive analytics. Always eager to explore and master cutting-edge technologies to stay at the forefront of the ever-evolving tech landscape.
 
 ## 🚀 About Me
 - 🎓 I'm currently studying Computer Science 
 - 🌱 I'm currently learning Data Science
+
 ## 🤝 I'm looking to collaborate on:
 - Open source projects
-- Innovative web or mobile applications
 - Data science or machine learning projects
 - Any interesting projects that align with my skills and interests
 
 ## 🆘 I'm looking for help with:
-- Building and expanding my project portfolio
-- Learning best practices in software development
 - Exploring new technologies and frameworks
 - Connecting with like-minded developers for knowledge sharing and potential collaborations
 
@@ -49,4 +46,4 @@ I'm a passionate developer focused on crafting innovative web solutions and deve
 <a href="https://x.com/yashjainme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
-⭐️ From [yashjainme](https://github.com/yashjainme)
+⭐️ From [yashjainnme](https://github.com/yashjainme)
